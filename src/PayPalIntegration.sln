@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayPalIntegration.Web", "PayPalIntegration.Web\PayPalIntegration.Web.csproj", "{FD94D64F-D4A7-450B-A3FC-CE5DE19E7FD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayPalIntegration.Core", "PayPalIntegration.Core\PayPalIntegration.Core.csproj", "{DD50A1CF-152D-4C77-B24D-480F6BD790BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD94D64F-D4A7-450B-A3FC-CE5DE19E7FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD94D64F-D4A7-450B-A3FC-CE5DE19E7FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD94D64F-D4A7-450B-A3FC-CE5DE19E7FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD94D64F-D4A7-450B-A3FC-CE5DE19E7FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD50A1CF-152D-4C77-B24D-480F6BD790BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD50A1CF-152D-4C77-B24D-480F6BD790BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD50A1CF-152D-4C77-B24D-480F6BD790BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD50A1CF-152D-4C77-B24D-480F6BD790BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91DEDF29-C7C6-4E28-8CFC-FD0624DA7814}
+	EndGlobalSection
+EndGlobal
